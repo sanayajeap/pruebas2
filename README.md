@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# pruebasig
-prueba sig platzi
-=======
-# pruebas2
-pruebas2 de platzi
->>>>>>> e47c22f27fa933fbe42425c577cef896aaffa5da
+#Hyperlog:blue_heart:
+Un blog increible para el curso de [Git y GitHub](http://www.itim-engineering.com "Git y GitHub")
+>El curso de git y github es lo que me hacia falta
+> - Sergio Anaya
+
+##En este curso vemos de todo
+* Todos los comandos 
