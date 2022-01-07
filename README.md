@@ -7,3 +7,4 @@ Un blog increible para el curso de [Git y GitHub](http://www.itim-engineering.co
 * Todos los comandos 
 * Creado por el increible itim team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
